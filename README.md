@@ -81,9 +81,3 @@ Type messages in either terminal and press Enter to send. Type `exit` to close t
 |-- network_driver.py
 `-- shift_cipher.py
 ```
-
-## GitHub upload notes
-
-- The repository now includes a `.gitignore` for Python cache files.
-- `network_driver.py` was left untouched because it is marked as provided infrastructure.
-- The editable source files were cleaned up for readability, smaller comments, and more consistent formatting.
